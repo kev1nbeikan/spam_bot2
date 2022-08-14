@@ -1,0 +1,1 @@
+from .client_init import SpamMachine
